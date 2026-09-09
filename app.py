@@ -1,6 +1,6 @@
 from flask import Flask
 
-app = Flask(Cloud)
+app = Flask(AWS Cloud)
 
 @app.route("/")
 def home():
